@@ -37,3 +37,4 @@ We welcome [issues](https://github.com/ethereum-optimism/circleci-github-utils/i
 5. Now ensure the version tag selected is semantically accurate based on the changes included.
 6. Click _"Publish Release"_.
     - This will push a new tag and trigger your publishing pipeline on CircleCI.
+This project is a demonstration of blockchain technology and smart contract integration.
